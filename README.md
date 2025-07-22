@@ -6,4 +6,7 @@
     - Hourly Limit: 1,000 requests per hour
 
 
-##### To view the gallery simply open the index.html in any web browser.
+##### To view the gallery simply open the index.html in any web browser, once the FastAPI is running.
+
+
+#### **Requirements:** Python 3 and JavaScript enabled
