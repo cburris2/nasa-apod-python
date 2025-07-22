@@ -1,1 +1,6 @@
-Simple app to use the NASA APOD API
+# Simple app to use the NASA APOD API
+
+### Run `fastapi dev .\main.py` in a terminal to startup the FastAPI backend
+
+##### Rate limits are listed below, for more details click [here](https://api.nasa.gov/#signUp), if the NASA APOD Gallery (index.html) does not display most likely you've hit the rate limit imposed by NASA.
+    - Hourly Limit: 1,000 requests per hour
